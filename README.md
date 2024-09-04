@@ -1,0 +1,1 @@
+This repo is for explaining the usage of merging, checkout, push, pulls; swapping from branch to main, and vice versa
